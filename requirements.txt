@@ -1,0 +1,8 @@
+streamlit
+plotly
+streamlit-lottie
+fpdf2
+selenium
+pillow
+pdfkit
+weasyprint
